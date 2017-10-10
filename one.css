@@ -34,7 +34,7 @@ nav ul {
 nav li {
     font-size: 1.999rem;
     list-style-type: none;
-    font-family: Merriweather, Times New Roman, Times, serif;
+    font-family: Merriweather, "Times New Roman", Times, serif;
 }
 
 nav li>a {
@@ -53,7 +53,7 @@ nav li>a:active {
 p {
     font-size: 1.414rem;
     padding: 0.5rem 2rem;
-    font-family: Merriweather, Times New Roman, Times, serif;
+    font-family: Merriweather, "Times New Roman", Times, serif;
 }
 
 main p:last-child {
@@ -92,5 +92,5 @@ footer p {
     font-size: 1rem;
     padding: 2rem;
     color: #666;
-    font-family: Merriweather, Times New Roman, Times, serif;
+    font-family: Merriweather, "Times New Roman", Times, serif;
 }
